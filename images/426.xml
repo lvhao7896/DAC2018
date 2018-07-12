@@ -1,0 +1,16 @@
+<annotation>
+   <filename>426</filename>
+   <size>
+      <width>640</width>
+      <height>360</height>
+   </size>
+   <object>
+      <name>0</name>
+      <bndbox>
+         <xmax>267</xmax>
+         <xmin>246</xmin>
+         <ymax>234</ymax>
+         <ymin>191</ymin>
+      </bndbox>
+   </object>
+</annotation>
